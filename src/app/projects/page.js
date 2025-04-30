@@ -2,7 +2,7 @@ export default function ProjectsPage() {
     return (
       <main className="min-h-screen p-10 bg-white text-black dark:bg-gray-900 dark:text-white">
         <h1 className="text-4xl font-bold mb-4">Projects</h1>
-        <p className="text-lg mb-6">Here are some of the projects I've built recently:</p>
+        <p className="text-lg mb-6">Here are some of the projects I have built recently:</p>
         
         <div className="grid gap-6 md:grid-cols-2">
           <div className="p-4 border rounded shadow-md dark:border-gray-700">
